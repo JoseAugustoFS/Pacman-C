@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1583172140 source:c:\users\user\desktop\pacman (arquivado)\pacman\main.c
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1581789792 c:\users\user\desktop\pacman (arquivado)\pacman\soil.h
+
+1583175988 source:c:\users\user\desktop\pacman (arquivado)\pacman\resources.rc
+
+1624632320 source:c:\users\jorau\documents\meus programas\linguagem c\pacman\pacman\main.c
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1581789794 c:\users\jorau\documents\meus programas\linguagem c\pacman\pacman\soil.h
+
+1583175990 source:c:\users\jorau\documents\meus programas\linguagem c\pacman\pacman\resources.rc
+

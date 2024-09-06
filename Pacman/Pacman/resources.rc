@@ -1,0 +1,7 @@
+#ifndef _resource_rc
+#define _resource_rc
+
+MAININCON ICON "Icone_Pacman.ico"
+
+
+#endif // _resource_rc
